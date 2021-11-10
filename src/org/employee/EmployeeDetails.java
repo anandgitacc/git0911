@@ -13,7 +13,8 @@ public class EmployeeDetails {
 	}
 	// method 3
 	private void empAdd() {
-
+		
+		System.out.println("Chennai");
 	}
 	// main method
 	public static void main(String[] args) {
